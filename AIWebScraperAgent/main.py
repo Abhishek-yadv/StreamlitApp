@@ -74,5 +74,5 @@ st.markdown("""
 # Footer
 st.markdown("""
     ---
-    Made with ❤️ by [Your Name]
+    Made with ❤️ by [Abhishek]
 """)
